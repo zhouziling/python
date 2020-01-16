@@ -1,0 +1,6 @@
+git init#create repository
+git add .
+git config --global user.email "nnnn@nn.com"
+git config --global uer.name"jill"
+git commit -m"upload notes"
+git push origin
