@@ -1,6 +1,7 @@
-git init#create repository
+mkdir 
+git init #create repository 创建目录为可管理的仓库
 git add .
 git config --global user.email "nnnn@nn.com"
 git config --global uer.name"jill"
-git commit -m"upload notes"
+git commit -m "upload notes"
 git push origin
